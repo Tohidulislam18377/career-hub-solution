@@ -1,0 +1,10 @@
+.items-container {
+    border-radius: 8px;
+    border: 1px solid var(--Dark-06, #E8E8E8);
+}
+
+.view-link {
+    border-radius: 4px;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    color: white;
+}

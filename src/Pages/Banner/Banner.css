@@ -1,0 +1,8 @@
+.banner-container {
+    background-color: rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%;
+}
+
+.btn-container {
+    border-radius: 8px;
+    background: var(--Linear, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%));
+}

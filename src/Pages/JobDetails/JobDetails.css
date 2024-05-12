@@ -1,0 +1,12 @@
+.job-details-container {
+    border-radius: 8px;
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.10) 0%, rgba(152, 115, 255, 0.10) 100%);
+}
+
+.apply-btn {
+    color: white;
+ padding: 8px;
+    width: 100%;
+    border-radius: 8px;
+    background: var(--Linear, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%));
+}
